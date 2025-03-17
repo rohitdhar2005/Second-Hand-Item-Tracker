@@ -5,11 +5,6 @@ Second Hand Item Tracker
 
 ## Project Description
 A decentralized ledger for tracking ownership history for second-hand items.
-![image](https://github.com/user-attachments/assets/30081cb4-92f6-45cc-bbe2-1a556033fde8)
-
-
-
-
 
 ## Project Vision
 This project aims to provide a transparent and immutable record of ownership for second-hand items. By leveraging blockchain technology, users can track and verify the history of ownership, ensuring authenticity and reducing fraudulent transactions.
@@ -29,3 +24,4 @@ This project aims to provide a transparent and immutable record of ownership for
 ## Contract Address
 _(0x1c391cb3abafab77df4023263c87b1b4f6abb4ff)_
 
+![image](https://github.com/user-attachments/assets/30081cb4-92f6-45cc-bbe2-1a556033fde8)
