@@ -5,6 +5,7 @@ Second Hand Item Tracker
 
 ## Project Description
 A decentralized ledger for tracking ownership history for second-hand items.
+![image](https://github.com/user-attachments/assets/30081cb4-92f6-45cc-bbe2-1a556033fde8)
 
 
 
